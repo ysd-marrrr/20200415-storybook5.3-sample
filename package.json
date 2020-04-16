@@ -1,0 +1,28 @@
+{
+  "name": "20200417-storybook5.3-sample",
+  "version": "1.0.0",
+  "description": "Original Storybook 5.3 samples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysd-marrrr/20200417-storybook5.3-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysd-marrrr/20200417-storybook5.3-sample/issues"
+  },
+  "homepage": "https://github.com/ysd-marrrr/20200417-storybook5.3-sample#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@storybook/html": "^5.3.18",
+    "babel-loader": "^8.1.0"
+  }
+}
